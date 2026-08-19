@@ -1,50 +1,52 @@
-## # Hi, I'm Abhinav Kumar 👋
+# Hi, I'm Abhinav Kumar 👋
 
-### MCA Student | Aspiring Software Developer
+### MCA Student | Python Developer | Aspiring Software Developer
 
-I'm an MCA student interested in software development, programming,
-data analytics, and building practical projects.
+I'm an MCA student focused on learning Python and building practical
+projects to develop strong programming and problem-solving skills.
 
 ## 🚀 About Me
 
 - 🎓 MCA Student
-- 💻 Aspiring Software Developer
-- 🐍 Learning Python
-- ☕ Learning Java
-- 🗄️ Learning SQL & DBMS
-- 📊 Learning Power BI & Data Analytics
-- 🧠 Improving DSA and problem-solving skills
-- 🚀 Building practical projects
+- 🐍 Focused on Python Development
+- 💻 Building practical Python projects
+- 🧠 Improving programming and problem-solving skills
+- 📚 Learning Object-Oriented Programming
+- 🗄️ Learning database integration with Python
+- 🚀 Preparing for software development roles
 
-## 🛠️ Technical Skills
+## 🐍 Python Skills
 
-**Programming:** Python, Java, C
+- Python Fundamentals
+- Conditional Statements & Loops
+- Functions
+- Lists, Tuples, Sets & Dictionaries
+- Strings
+- File Handling
+- Exception Handling
+- Object-Oriented Programming
+- Modules & Packages
+- Database Connectivity
+- APIs
+- Git & GitHub
 
-**Database:** SQL, MySQL, DBMS
+## 📂 Python Projects
 
-**Data & Analytics:** Excel, Power BI, Python
-
-**Core CS:** OOP, DSA, DBMS, Operating Systems, Computer Networks
-
-**Tools:** Git, GitHub, VS Code
+🚧 Projects coming soon...
 
 ## 📚 Currently Learning
 
 - Advanced Python
-- Java & OOP
-- Data Structures & Algorithms
-- SQL
-- Power BI
-- Software Development
+- Object-Oriented Programming
+- Data Structures & Algorithms with Python
+- SQL with Python
+- Python Projects
+- Git & GitHub
 
 ## 🎯 Career Goal
 
-To start my career as a Software Developer and continuously
-improve my technical and problem-solving skills.
-
-## 📂 Projects
-
-🚧 Projects coming soon...
+To become a skilled Python Developer by building real-world projects
+and continuously improving my programming and problem-solving skills.
 
 ## 📫 Connect With Me
 
@@ -53,18 +55,3 @@ improve my technical and problem-solving skills.
 ---
 
 ⭐ Thanks for visiting my profile!
-
-<!--
-**abhinav-kumar01/abhinav-kumar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
